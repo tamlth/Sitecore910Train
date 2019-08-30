@@ -1,0 +1,5 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="http://sc910train.local" UserName="sitecore\admin" IsRemoteSitecore="False" />
+  </PropertyGroup>
+</Project>
